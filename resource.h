@@ -2,7 +2,6 @@
 // Включаемый файл, созданный в Microsoft Visual C++.
 // Используется SelfInjector.rc
 //
-#define IDR_RCDATA1                     101
 #define IDR_RCDATA2                     102
 
 // Next default values for new objects

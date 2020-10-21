@@ -50,8 +50,6 @@ END
 // RCDATA
 //
 
-IDR_RCDATA1             RCDATA                  "flag.txt"
-
 IDR_RCDATA2             RCDATA                  "BadDll.dll"            
 
 #endif    // Русский (Россия) resources
